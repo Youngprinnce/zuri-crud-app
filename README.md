@@ -11,13 +11,13 @@ No view needed, just Postman it
 
 ### Database Schema
 
-#### PROFLE
+#### PROFLE / REQUEST PAYLOAD
 - name
 - country
 - email
 
 #### Routes API
-#### BASE ROUTE 
+#### BASE ROUTE https://sophisticated-solstice-sandpaper.glitch.me
 Routes | HTTP | Description
 --- | --- | ---
 **v1/api/profile** | `GET` | Get all profiles
