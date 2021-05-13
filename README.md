@@ -17,7 +17,7 @@ No view needed, just Postman it
 - email
 
 #### Routes API
-#### PROFILE
+#### BASE ROUTE 
 Routes | HTTP | Description
 --- | --- | ---
 **v1/api/profile** | `GET` | Get all profiles
